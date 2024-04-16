@@ -1,1 +1,1 @@
-## this is an example of a End-to End ML project
+## this is an example of a End-to End ML proje
